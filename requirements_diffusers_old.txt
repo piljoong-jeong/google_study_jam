@@ -1,0 +1,18 @@
+fastapi
+opencv-python-headless
+blend_modes
+pydantic
+uvicorn
+python-multipart
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+mozuma-clip
+sentence-transformers
+huggingface_hub
+transformers
+accelerate
+diffusers==0.17.1
+ddtrace
+numba
